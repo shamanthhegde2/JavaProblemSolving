@@ -1,4 +1,4 @@
-package Array;
+package Array.Basic;
 
 public class LargestElementInAnArray {
     public static void main(String[] args) {
